@@ -2,7 +2,7 @@
 
 **Autor:** Ainhoa Barjola Ruiz  
 **Institución:** Universidad Alfonso X el Sabio (UAX) / Instituto de Física Fundamental (IFF-CSIC)  
-**Tutorización:** Tomás González Lezana y José Antonio Prieto Persiguero
+**Tutorización:** José Antonio Prieto Persiguero, Tomás González Lezana y Mª Judit Montes De Oca Estévez
 
 Este repositorio contiene el ecosistema algorítmico y las herramientas de análisis de datos desarrolladas para el Trabajo de Fin de Grado en Física: *"Simulaciones Computacionales en Agregados Moleculares de Rb+(H2)N inmersos en Medios Cuánticos"*. 
 
@@ -23,7 +23,7 @@ Contiene los motores de búsqueda global y minimización de energía:
 ### `/analysis` (Análisis Físico y Termodinámico)
 Scripts dedicados al procesamiento de datos crudos y visualización científica:
 * `plot_evaporation_energy.py`: Generador de la curva de evaporación para la identificación de números mágicos.
-* `radial_distribution_function.py`: Cálculo de gaussianas y funciones de distribución radial.
+* `radial_energy_scan.py`: Cálculo de gaussianas y funciones de distribución radial.
 * `gaussian_broadening.py`: Cálculo de la Función de Distribución Radial mediante ensanchamiento gaussiano de las distancias atómicas para la identificación de capas de solvatación.
 
 ### `/utils` (Herramientas de Topología y Geometría)
